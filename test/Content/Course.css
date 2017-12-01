@@ -1,0 +1,93 @@
+﻿.body {
+    height: 100%;
+}
+
+.head20 {
+    width: 100%;
+    height: 13%;
+    position: relative;
+    background-color: #66CCFF;
+}
+
+.IMG {
+    margin-left: 90%;
+    width: 7%;
+    margin-top: 15%;
+}
+
+.unfinished {
+    width: 96%;
+    height: 13%;
+    position: relative;
+    background-color: #66CCFF;
+    border-radius: 50px;
+    margin-left: 2%;
+    margin-top: 3%
+}
+
+.finished {
+    width: 96%;
+    height: 13%;
+    position: relative;
+    background-color: #CCCCCC;
+    border-radius: 50px;
+    margin-left: 2%;
+    margin-top: 3%
+}
+
+.FONT1 {
+    font-size: 13vw;
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 4%;
+    height: 10px;
+    margin-left: 31%;
+}
+
+.FONT2 {
+    font-size: 8vw;
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 7%;
+    height: 10px;
+    margin-left: 11%;
+}
+
+.FONT4-1 {
+    font-size: 4vw;
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 2%;
+    height: 10px;
+    margin-left: 60%;
+}
+
+.FONT4-2 {
+    font-size: 4vw;
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 9%;
+    height: 10px;
+    margin-left: 60%;
+}
+
+.FONT4-3 {
+    font-size: 4vw;
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 16%;
+    height: 10px;
+    margin-left: 60%;
+}
+
+.SUB {
+    margin-left: 60%;
+}
+
+.VR {
+    float: left;
+    width: 50px;
+    border-right: 1px dashed black;
+    padding-bottom: 1600px; /*关键*/
+    margin-bottom: -1600px; /*关键*/
+}

@@ -1,0 +1,191 @@
+﻿
+/* CSS Document */
+
+
+/*打分部分的边缘长度*/
+.scoremargin {
+    margin: 10%;
+}
+/* “成为队长”按钮 */
+.btnleader {
+    background-color: #66ccff;
+    color: #FFF;
+    font-size: 5vw;
+    border-radius: 50px;
+    margin-left: 23%;
+    width: 50%;
+    margin-top: -5%;
+    border-style: none;
+}
+/* “辞职”按钮 */
+.btnquit {
+    float: right;
+    background-color: #66ccff;
+    color: #FFF;
+    font-size: 5vw;
+    border-radius: 50px;
+    width: 80%;
+    height: 10%;
+    margin-right: 20%;
+    margin-top: 9%;
+    border-style: none;
+}
+/* “提交”按钮 */
+.btnsubmit {
+    margin: auto;
+    margin-top: 20%;
+    background-color: #66ccff;
+    color: #FFF;
+    font-size: 2.4rem;
+    border-radius: 1.5rem;
+    width: 50%;
+    border-style: none;
+}
+/* 居中div */
+.middlediv {
+    height: 15%;
+    width: 90%;
+    float: left;
+    margin-left: 5%;
+    border-radius: 50px;
+    color: black;
+    text-align: center;
+}
+/* 讨论课信息块 */
+.seminarblock {
+    width: 100%;
+    height: 13%;
+    position: relative;
+    font-size: 14px;
+}
+
+.FONT1 {
+    color: black;
+    float: right;
+    font-size: 5vw;
+    width: 25%;
+    margin-top: 11%;
+    margin-right: 37%;
+    font-weight: bold;
+}
+
+/* 个人信息块 */
+.block {
+    width: 96%;
+    height: 10%;
+    position: relative;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 2%;
+    margin-top: 3%
+}
+
+.column0 {
+    float: left;
+    width: 10%;
+    height: 40%;
+    margin-top: 2%;
+}
+
+.IMG {
+    width: 37%;
+    margin-left: 18%;
+    margin-top: 14%;
+}
+
+.column1 {
+    float: left;
+    width: 25%
+}
+
+.FONT3 {
+    color: black;
+    float: left;
+    font-size: 4vw;
+    width: 50%;
+    margin-left: 12%;
+    margin-top: 6%;
+    font-weight: bold;
+}
+
+.column2 {
+    float: left;
+    width: 45%
+}
+
+.column3 {
+    float: right;
+    width: 30%
+}
+
+.column4 {
+    float: left;
+    width: 70%
+}
+
+.FONT2 {
+    color: white;
+    float: left;
+    font-size: 5vw;
+    width: 35%;
+    margin-left: 13%;
+    margin-top: 4%;
+    font-weight: bold;
+}
+/* 白色字：分组信息 选题 */
+.whiteword {
+    width: 100%;
+    height: 9%;
+    position: relative;
+}
+/* 靠右蓝色字 队长*/
+.rightblueword {
+    color: #6CF;
+    float: right;
+    font-size: 7vw;
+    margin-right: 10%;
+    margin-top: 4%;
+    font-weight: bold;
+}
+
+/*居中灰色文字*/
+.midgreyword {
+    color: black;
+    font-size: 3vw;
+    float: left;
+    word-wrap: break-word;
+    width: 90%;
+    margin-top: 5%;
+    overflow: hidden;
+    margin-left: 3%
+}
+/*左上角图标*/
+.UsersIcon {
+    width: 15%;
+    margin-left: 13%;
+    margin-top: 10%;
+}
+
+.columndisplay {
+    display: inline;
+    font-size: 1.4rem;
+}
+
+div {
+    font-family: "微软雅黑";
+}
+
+html {
+    height: 100%;
+    font-size: 62.5%;
+}
+
+body {
+    height: 100%;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 3%
+}
